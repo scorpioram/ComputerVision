@@ -5,7 +5,7 @@ Here is the step by step guide on the Face Detection project.The complete projec
 Section 1 : 
 
 Data Pre-Processing and reviewing the data:
-    1. Mount Google drive 
+    1. Mount Google drive
     2. Change current directory to working directory
     3. Load the images from images.npy file. 
     4. Check sample of images data by plotting image using matplotlib.
